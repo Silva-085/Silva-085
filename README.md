@@ -4,34 +4,48 @@ Desenvolvedor em formação, com foco em desenvolvimento Backend utilizando Java
 
 Tenho interesse em desenvolvimento de software, arquitetura de sistemas, banco de dados e construção de aplicações.
 
-## 🚀 Tecnologias e ferramentas
+## 🚀 Technologies & Tools
 
-**Atualmente estudando:**
+### ☕ Backend Development
 - Java
-- SQL
-- Programação Orientada a Objetos (POO)
-- Git e GitHub
 - Spring Boot
-- PostgreSQL
-- Spring Data JPA / Hibernate
-- Spring Security / JWT
+- Spring Framework
+- Spring Data JPA
+- Hibernate
+- Spring Security
 - APIs REST
-- Maven
-- JUnit e Mockito
-- Docker
+- Microservices
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQL
+- Redis
+
+### 🧪 Testing & Documentation
+- JUnit
+- Mockito
 - Swagger / OpenAPI
+
+### ⚙️ DevOps & Infrastructure
+- Git & GitHub
+- Maven
+- Docker
 - CI/CD
-- AWS ou Azure
-- RabbitMQ / Kafka
-- Arquitetura de Microsserviços
+- Linux
+- AWS / Azure
 
-## 📚 Áreas de interesse
+### 🔄 Messaging & Integration
+- RabbitMQ
+- Apache Kafka
 
-- Desenvolvimento Backend
-- Engenharia de Software
-- Arquitetura de Sistemas
-- Estruturas de Dados e Algoritmos
-- Automação de Processos
+### 🌐 Frontend & Integration
+- HTML5
+- CSS3
+- JavaScript
+- Angular
+
+
 
 ## 💻 Projetos
 
